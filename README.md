@@ -8,7 +8,7 @@ If you use github, configure your workflow in the .github folder.
 
 If you don't use github, you can install husky and lint-staged to configure your workflow.
 
-1.Replace all "wwog-lib-name" with your libName
+1.Replace all "lib-name" with your libName
 
 ```bash
 #install pnpm
@@ -23,7 +23,7 @@ corepack prepare pnpm@7.5.0 --activate
 ```bash
 pnpm add -g degit
 
-degit https://github.com/wwog/wwog-lib-template
+degit wwog/lib-template
 ```
 
 3.according to the editor,install prettier and eslint plugin
