@@ -37,12 +37,13 @@
     "eslint": "^8.19.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1",
+    "eslint-config-prettier": "^8.5.0",
     "typescript": "latest",
     "vite": "3.0.0-beta.5 || latest",
     "vite-plugin-dts": "latest",
     "vitest": "^0.16.0"
   },
   "dependencies": {
-    "eslint-config-prettier": "^8.5.0"
+
   }
 }
