@@ -12,6 +12,7 @@ const config = {
   htmlWhitespaceSensitivity: 'ignore',
   endOfLine: 'lf',
   embeddedLanguageFormatting: 'auto',
+  arrowParens: 'avoid',
 }
 
 module.exports = config
