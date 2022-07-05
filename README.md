@@ -1,10 +1,12 @@
 # wwog-lib-name
 
+**English** | [中文](./docs/README.zh-CN.md)
+
 ## template Usage
 
-If you use github, it is recommended to use github CI to complete your workflow.
+If you use github, configure your workflow in the .github folder.
 
-If you don't use github, you can install Install husky and lint-staged and complete your workflow with githook.
+If you don't use github, you can install husky and lint-staged to configure your workflow.
 
 1.Replace all "wwog-lib-name" with your libName
 

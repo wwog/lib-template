@@ -1,20 +1,20 @@
 {
-  "name": "wwog-lib-name",
+  "name": "lib-name",
   "version": "0.0.0",
   "description": "",
   "files": [
     "dist",
     "types"
   ],
-  "homepage": "https://github.com/wwog/wwog-lib-template",
-  "bugs": "https://github.com/wwog/wwog-lib-template/issues",
+  "homepage": "https://github.com/wwog/lib-template",
+  "bugs": "https://github.com/wwog/lib-template/issues",
   "types": "./types/index.d.ts",
-  "main": "./dist/wwog-lib-name.umd.js",
-  "module": "./dist/wwog-lib-name.es.js",
+  "main": "./dist/lib-name.umd.js",
+  "module": "./dist/lib-name.es.js",
   "exports": {
     ".": {
-      "import": "./dist/wwog-lib-name.es.js",
-      "require": "./dist/wwog-lib-name.umd.js"
+      "import": "./dist/lib-name.es.js",
+      "require": "./dist/lib-name.umd.js"
     }
   },
   "packageManager": "pnpm@7.5.0",
