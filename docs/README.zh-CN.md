@@ -4,7 +4,7 @@
 
 ## template Usage
 
-如果你使用github,在.github文件夹配置你的工作流。
+如果你使用github,在.github文件夹配置你的工作流。你可以选择**Github-script**用JavaScript编写工作流。
 
 如果你不使用github,可以安装husky和lint-staged来配置你的工作流。
 

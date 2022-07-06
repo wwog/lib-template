@@ -4,7 +4,7 @@
 
 ## template Usage
 
-If you use github, configure your workflow in the .github folder.
+If you use github, configure your workflow in the .github folder.github-script.you can choose **Github-script** write workflows in JavaScript
 
 If you don't use github, you can install husky and lint-staged to configure your workflow.
 
