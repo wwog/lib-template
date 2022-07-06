@@ -1,4 +1,4 @@
-# wwog-lib-name
+# lib-name
 
 **English** | [中文](./docs/README.zh-CN.md)
 
