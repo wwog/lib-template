@@ -15,7 +15,7 @@ If you don't use github, you can install husky and lint-staged to configure your
 corepack enable
 #version must be SemVer,you can run NPM info to check the latest SemVer
 #replace package.json pnpm version
-corepack prepare pnpm@7.5.0 --activate
+corepack prepare pnpm@7.5.1 --activate
 ```
 
 2.install degit copy the repository
