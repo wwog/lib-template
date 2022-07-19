@@ -11,6 +11,7 @@ If you don't use github, you can install husky and lint-staged to configure your
 1.Replace all "lib-name" with your libName
 
 ```bash
+git config core.autocrlf false
 #install pnpm
 corepack enable
 #version must be SemVer,you can run NPM info to check the latest SemVer
